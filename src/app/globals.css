@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import '~maplibre-gl/dist/maplibre-gl.css';
 
 @tailwind components;
 @tailwind utilities;
